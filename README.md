@@ -1,8 +1,12 @@
 # Exercise Tracker
 ## The task is:
-Build a full stack JavaScript app that is functionally similar to this: https://exercise-tracker.freecodecamp.rocks.
+Build a full stack JavaScript app that is functionally similar to this: 
+https://exercise-tracker.freecodecamp.rocks.
 
-## The userstory are:
+## Ready project is here: 
+https://boilerplate-project-exercisetracker.iusupmagomedov.repl.co
+
+### The userstory are:
 
 Passed:You should provide your own project, not the example URL.
 
